@@ -1,0 +1,36 @@
+Music/sound credits
+
+neocrey - Destractor
+Author: 
+neocrey
+CC BY-SA 3.0
+
+8-Bit Sound Effects Library
+Copyright/Attribution Notice: 
+Attribute Little Robot Sound Factory, and provide this link where possible: www.littlerobotsoundfactory.com
+CC BY 3.0
+
+asset links:
+voxGobble = loadSound("https://redhendev.github.io/InfinitePacman/sound/gobble.mp3");
+  
+imgBlinky = loadImage("https://redhendev.github.io/InfinitePacman/blinky.png");
+
+voxGameOver = loadSound("https://redhendev.github.io/InfinitePacman/sound/gameOver.mp3");
+
+
+Happy Lullaby (song17)
+Author: 
+cynicmusic
+Attribution Instructions: 
+cynicmusic.com pixelsphere.org
+
+Drifting Beyond the Stars
+Author: 
+Hitctrl
+Friday, April 6, 2018 - 15:29
+Art Type: 
+Music
+
+Interstellar Odyssey
+Copyright/Attribution Notice: 
+Attribute as Patrick de Arteaga and a link to patrickdearteaga.com
